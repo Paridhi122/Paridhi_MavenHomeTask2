@@ -15,5 +15,4 @@ public interface Sweets {
 
     int getQuantity();
 
-    //<T> int giftBoxWeight(ArrayList<T> element, int no);
 }
