@@ -1,7 +1,5 @@
 package Hometask;
 
-import jdk.internal.cmm.SystemResourcePressureImpl;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
